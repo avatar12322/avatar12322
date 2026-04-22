@@ -18,12 +18,5 @@ Obecnie studiuję Informatykę na **WSEI w Krakowie**. Fascynuje mnie sztuczna i
 
 ---
 
-### Wyróżniony Projekt (z mojego konta studenckiego)
-
-[![Wirtualny Instruktor Lotu]([https://github-readme-stats.vercel.app/api/pin/?username=szymon-pawlik&repo=TUTAJ_NAZWA_REPO&theme=radical](https://github.com/avatar12322/FlightDataRecorder))]([https://github.com/szymon-pawlik/TUTAJ_NAZWA_REPO](https://github.com/avatar12322/FlightDataRecorder))
-*(Kliknij w kafelek powyżej, aby zobaczyć repozytorium!)*
-
----
-
 ### Moje Statystyki na GitHubie
 ![Statystyki Szymona](https://github-readme-stats.vercel.app/api?username=avatar12322&show_icons=true&theme=radical)
