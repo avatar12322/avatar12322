@@ -29,7 +29,6 @@ Obecnie studiuję Informatykę na **WSEI w Krakowie**. Fascynuje mnie sztuczna i
 **Questify (Grywalizacja i Nawyki)**
 
 [![Questify](https://github-readme-stats.vercel.app/api/pin/?username=avatar12322&repo=questify&theme=radical)](https://github.com/avatar12322/questify)
-*Aplikacja w stylu RPG, która zamienia codzienne obowiązki w angażujące wyzwania. Wykonywanie realnych zadań (np. sprzątanie) pozwala rozwijać postać, zdobywać doświadczenie i wirtualną walutę.*
 
 ---
 
