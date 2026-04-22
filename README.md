@@ -1,0 +1,2 @@
+# Avatar
+Cześć, jestem Szymon 👋
